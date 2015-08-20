@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Metadua!"
-date: {}
+date: 2015-08-17 23:41:05
 categories: metadua introduction
 published: true
 ---
